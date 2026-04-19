@@ -138,6 +138,15 @@ Open and run the XGBoost Notebook:
 XGBoost/xgboost.ipynb
 ```
 
+### 7. Run Random Forest Model
+
+Open and run the Random Forest Notebook:
+
+```
+Random Forest/RandomForest.ipynb
+```
+
+
 ---
 
 ## Key Insights
