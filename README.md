@@ -65,6 +65,10 @@ Sepsis-PhysioNet-2019-Intro-Predicting/
 │   ├── 1-to-1_few.csv                    # Created after running 2-organizer.R on intended_1-to-1_few.csv
 │   └── 1-to-1_full.csv                   # Created after running 2-organizer.R on intended_1-to-1_full.csv
 │
+│
+├── Random Forest/
+│   └── RandomForest.ipynb
+│
 ├── XGBoost/
 │   └── xgboost.ipynb
 │
