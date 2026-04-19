@@ -2,20 +2,6 @@ numpy
 pandas
 matplotlib
 scikit-learn
-sklearn.ensemble import RandomForestClassifier
-sklearn.model_selection import train_test_split
-sklearn.metrics import (
-    accuracy_score,
-    recall_score,
-    precision_score,
-    f1_score,
-    roc_auc_score,
-    roc_curve,
-    auc,
-    precision_recall_curve,
-    confusion_matrix,
-    ConfusionMatrixDisplay,
-)
 xgboost
 
 
